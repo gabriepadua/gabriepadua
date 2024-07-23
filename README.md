@@ -57,3 +57,8 @@
   <a href="https://www.linkedin.com/in/gabriel-padua-620232229/" target="_blank"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/></a>
 </p>
+
+
+### Github Stats
+[![](https://github-readme-stats.vercel.app/api?username=gabriepadua&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/gabriepadua)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=gabriepadua&theme=material-palenight)](https://github.com/gabriepadua)
