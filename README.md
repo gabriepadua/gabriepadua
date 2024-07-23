@@ -17,9 +17,9 @@
           <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
           <a href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
           <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>
-          <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></a>
           <a href="#"><img alt="Tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"></a>
           <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+          <a href="#"><img alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
 
 </p>
 
@@ -60,5 +60,5 @@
 
 
 ### Github Stats
-[![](https://github-readme-stats.vercel.app/api?username=gabriepadua&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/gabriepadua)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=gabriepadua&theme=material-palenight)](https://github.com/gabriepadua)
+[![](https://github-readme-stats.vercel.app/api?username=gabriepadua&show_icons=true&theme=dracula&hide_border=true&locale=en)](https://github.com/gabriepadua)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=gabriepadua&theme=dracula)](https://github.com/gabriepadua)
