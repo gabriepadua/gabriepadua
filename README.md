@@ -61,4 +61,4 @@
 
 ### Github Stats
 [![](https://github-readme-stats.vercel.app/api?username=gabriepadua&show_icons=true&theme=dracula&hide_border=true&locale=en)](https://github.com/gabriepadua)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=gabriepadua&theme=dracula)](https://github.com/gabriepadua)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=gabriepadua&theme=dracula&hide_border=true)](https://github.com/gabriepadua)
