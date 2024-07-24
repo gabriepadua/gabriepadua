@@ -59,6 +59,6 @@
 </p>
 
 
-### Github Stats
+### 🪁 Github Stats
 [![](https://github-readme-stats.vercel.app/api?username=gabriepadua&show_icons=true&theme=dracula&hide_border=true&locale=en&card_width=100px)](https://github.com/gabriepadua)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=gabriepadua&theme=dracula&hide_border=true&card_width=400px)](https://github.com/gabriepadua)
