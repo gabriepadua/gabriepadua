@@ -1,4 +1,4 @@
-# Hi there, i´m Gabriel Pádua 
+# Hi there, i'm Gabriel Pádua 
 
 ## 🙋🏻‍♂️ About me
 <p>
