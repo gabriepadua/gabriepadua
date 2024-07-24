@@ -1,3 +1,12 @@
+# Hi there, i´m Gabriel Pádua 
+
+## 🙋🏻‍♂️ About me
+<p>
+      <p>🎓 I'm graduating Computer Science at UVV</p>
+      <p>💻 Working at a weaher app project</p>
+      <p>🎯 Studying to become a full-stack developer</p>
+</p>
+
 ## 🛠️ My Favorite Tools
 
 ### 👨‍💻 Programming Languages 
