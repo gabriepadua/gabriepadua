@@ -55,7 +55,7 @@
 ### 🔗 Connect with me
 <p>
   <a href="https://www.linkedin.com/in/gabriel-padua-620232229/" target="_blank"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/></a>
+  <a href="https://www.instagram.com/gabriel.padua09/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/></a>
 </p>
 
 
