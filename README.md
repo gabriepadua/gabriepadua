@@ -3,8 +3,7 @@
 ## 🙋🏻‍♂️ About me
 <p>
       <p>🎓 I'm graduating at Computer Science at UVV</p>
-      <p>💻 Working at a weather app project</p>
-      <p>🎯 Studying to become a full-stack developer</p>
+      <p>🎯 Full-stack developer</p>
 </p>
 
 ## 🛠️ My Favorite Tools
