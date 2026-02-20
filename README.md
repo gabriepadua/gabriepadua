@@ -2,7 +2,7 @@
 
 ## 🙋🏻‍♂️ About me
 <p>
-      <p>🎓 I'm graduating at Computer Science at UVV</p>
+      <p>🎓 Bachelor's Degree in Computer Science from UVV</p>
       <p>🎯 Full-stack developer</p>
 </p>
 
